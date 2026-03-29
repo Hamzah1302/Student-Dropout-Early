@@ -157,7 +157,6 @@ with st.sidebar:
     st.markdown("### Label Prediksi")
     st.markdown("""
     - 🔴 **Dropout** — Berisiko tidak menyelesaikan studi
-    - 🟡 **Enrolled** — Masih aktif berkuliah
     - 🟢 **Graduate** — Diprediksi lulus tepat waktu
     """)
 
